@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1383398665 source:c:\users\administrator\desktop\quickhull2d\main.cpp
+	"header.h"
+
+1383395135 c:\users\administrator\desktop\quickhull2d\header.h
+	<GL/gl.h>
+	<GL/glut.h>
+	"QHull.h"
+
+1383398563 source:c:\users\administrator\desktop\quickhull2d\qhull.cpp
+	"QHull.h"
+
+1383398623 c:\users\administrator\desktop\quickhull2d\qhull.h
+	"edge2D.h"
+
+1383242595 c:\users\administrator\desktop\quickhull2d\edge2d.h
+	"Point2D.h"
+	<vector.h>
+
+1383268831 c:\users\administrator\desktop\quickhull2d\point2d.h
+	<math.h>
+	<vector.h>
+	<cstdlib>
+	<cmath>
+
